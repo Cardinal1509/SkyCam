@@ -170,4 +170,4 @@ SkyCam/
 ## 8. Assistive AI & Tool Disclosures
 In accordance with MIT Maker Portfolio guidelines:
 * **Hardware & Testing**: Structural frame fabrication, mechanical alignment, wiring, and digital multimeter measurements were executed 100% by hand.
-* **Assistive AI Use**: An LLM was used as an interactive engineering sounding board to verify structural deflection calculations, troubleshoot the CMOS $V_{IH(\min)}$ threshold mismatch, co-develop `FastAccelStepper` and OpenCV control loops, diagnose UART FIFO overflow during camera flashing, and derive the 2D-gaze-to-3D-world matrix rotation.
+* **Assistive AI Use**: An LLM was used as an interactive engineering sounding board to verify structural deflection calculations, troubleshoot the CMOS $V_{IH(\min)}$ threshold mismatch, co-develop `FastAccelStepper` and OpenCV control loops, diagnose UART FIFO overflow during camera flashing, and used to comment code structure this readme. 
